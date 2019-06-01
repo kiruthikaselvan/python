@@ -1,1 +1,2 @@
-
+ele=input()
+print(ele)
