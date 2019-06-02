@@ -1,2 +1,2 @@
 ele1=float(input())
-print(round(ele1))
+print(int(ele1)+1)
