@@ -4,4 +4,5 @@ for i in range(len(ele)):
         s=s+ele[i]
     else:
         o=o+ele[i]
-print(s,"",o)
+print(s,end=" ")
+print(o)
