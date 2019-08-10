@@ -1,2 +1,2 @@
-n,k=map(int,input().split())
-print(n**k)
+number,power=map(int,input().split())
+print(number**power)
